@@ -1,0 +1,200 @@
+{
+    "countries": [
+      {
+        "name": "China",
+        "code": "CNY",
+        "flag": "resources/country_flags/cn.png",
+        "wikipediaLink": "https://en.wikipedia.org/wiki/China",
+        "regions": [
+          "Anhui", "Beijing", "Chongqing", "Fujian", "Gansu", "Guangdong", "Guangxi Zhuangzu", "Guizhou", "Hainan", "Hebei",
+          "Heilongjiang", "Henan", "Hubei", "Hunan", "Jiangsu", "Jiangxi", "Jilin", "Liaoning", "Nei Mongol", "Ningxia Huizu",
+          "Qinghai", "Shaanxi", "Shandong", "Shanghai", "Shanxi", "Sichuan", "Tianjin", "Xinjiang Uygur", "Xizang", "Yunnan", "Zhejiang"
+        ]
+      },
+      {
+        "name": "Malawi",
+        "code": "MWK",
+        "flag": "resources/country_flags/mw.png",
+        "wikipediaLink": "https://en.wikipedia.org/wiki/Malawi",
+        "regions": [
+          "Balaka", "Blantyre", "Chikwawa", "Chiradzulu", "Dedza", "Dowa", "Karonga", "Lilongwe", "Machinga", "Mangochi",
+          "Mwanza", "Mzimba", "Neno", "Nkhotakota", "Phalombe", "Salima", "Thyolo", "Zomba"
+        ]
+      },
+      {
+        "name": "Azerbaijan",
+        "code": "AZN",
+        "flag": "resources/country_flags/az.png",
+        "wikipediaLink": "https://en.wikipedia.org/wiki/Azerbaijan",
+        "regions": [
+          "Abseron", "Agcabadi", "Agsu", "Astara", "Baki", "Balakan", "Barda", "Beylaqan", "Bilasuvar", "Calilabad", "Fuzuli", "Gadabay",
+          "Ganca", "Goranboy", "Goycay", "Goygol", "Imisli", "Ismayilli", "Kurdamir", "Lankaran", "Masalli", "Mingacevir", "Naftalan",
+          "Naxcivan", "Neftcala", "Oguz", "Qabala", "Qax", "Qazax", "Quba", "Qusar", "Saatli", "Sabirabad", "Saki", "Salyan", "Samaxi",
+          "Samkir", "Samux", "Sirvan", "Sumqayit", "Tartar", "Ucar", "Xacmaz", "Xocavand", "Yardimli", "Yevlax", "Zaqatala", "Zardab"
+        ]
+      },
+      {
+        "name": "Sierra Leone",
+        "code": "SLL",
+        "flag": "resources/country_flags/sl.png",
+        "wikipediaLink": "https://en.wikipedia.org/wiki/Sierra_Leone",
+        "regions": [
+          "Eastern", "Northern", "Southern", "Western Area"
+        ]
+      },
+      {
+        "name": "Ireland",
+        "code": "EUR",
+        "flag": "resources/country_flags/ie.png",
+        "wikipediaLink": "https://en.wikipedia.org/wiki/Ireland",
+        "regions": [
+          "Carlow", "Cavan", "Clare", "Cork", "Donegal", "Dublin", "Galway", "Kerry", "Kildare", "Kilkenny", "Laois", "Leitrim",
+          "Limerick", "Longford", "Louth", "Mayo", "Meath", "Monaghan", "Offaly", "Roscommon", "Sligo", "Tipperary", "Waterford", "Westmeath", "Wexford", "Wicklow"
+        ]
+      },
+      {
+        "name": "Cyprus",
+        "code": "CYP",
+        "flag": "resources/country_flags/cy.png",
+        "wikipediaLink": "https://en.wikipedia.org/wiki/Cyprus",
+        "regions": [
+          "Ammochostos", "Keryneia", "Larnaka", "Lefkosia", "Lemesos", "Pafos"
+        ]
+      },
+      {
+        "name": "Gambia",
+        "code": "GMD",
+        "flag": "resources/country_flags/gm.png",
+        "wikipediaLink": "https://en.wikipedia.org/wiki/Gambia",
+        "regions": [
+          "Banjul", "Central River", "Lower River", "North Bank", "Upper River", "Western"
+        ]
+      },
+      {
+        "name": "Cambodia",
+        "code": "KHR",
+        "flag": "resources/country_flags/kh.png",
+        "wikipediaLink": "https://en.wikipedia.org/wiki/Cambodia",
+        "regions": [
+          "Baat Dambang", "Banteay Mean Choay", "Kaeb", "Kampong Chaam", "Kampong Chhnang", "Kampong Spueu", "Kampong Thum",
+          "Kampot", "Kandaal", "Kracheh", "Mondol Kiri", "Pailin", "Phnom Penh", "Pousaat", "Preah Sihanouk", "Prey Veaeng", "Rotanak Kiri",
+          "Siem Reab", "Stueng Traeng", "Svaay Rieng", "Taakaev"
+        ]
+      },
+      {
+        "name": "Vanuatu",
+        "code": "VUV",
+        "flag": "resources/country_flags/vu.png",
+        "wikipediaLink": "https://en.wikipedia.org/wiki/Vanuatu",
+        "regions": [
+          "Shefa", "Tafea", "Torba"
+        ]
+      },
+      {
+        "name": "Guyana",
+        "code": "GYD",
+        "flag": "resources/country_flags/gy.png",
+        "wikipediaLink": "https://en.wikipedia.org/wiki/Guyana",
+        "regions": [
+          "Cuyuni-Mazaruni", "Demerara-Mahaica", "East Berbice-Corentyne", "Essequibo Islands-West Demerara", "Mahaica-Berbice", "Potaro-Siparuni", "Upper Demerara-Berbice"
+        ]
+      },
+      {
+        "name": "Afghanistan",
+        "code": "AFN",
+        "flag": "resources/country_flags/af.png",
+        "wikipediaLink": "https://en.wikipedia.org/wiki/Afghanistan",
+        "regions": [
+          "Badakhshan", "Badghis", "Baghlan", "Balkh", "Bamyan", "Daykundi", "Farah", "Faryab", "Ghazni", "Ghor", "Helmand", "Herat",
+          "Jowzjan", "Kabul", "Kandahar", "Kapisa", "Khost", "Kunduz", "Laghman", "Logar", "Nangarhar", "Nimroz", "Paktiya", "Parwan",
+          "Sar-e Pul", "Takhar", "Uruzgan"
+        ]
+      },
+      {
+        "name": "Lesotho",
+        "code": "LSL",
+        "flag": "resources/country_flags/ls.png",
+        "wikipediaLink": "https://en.wikipedia.org/wiki/Lesotho",
+        "regions": [
+          "Berea", "Botha-Bothe", "Leribe", "Mafeteng", "Maseru", "Mohale's Hoek", "Mokhotlong", "Qacha's Nek", "Quthing", "Thaba-Tseka"
+        ]
+      },
+      {
+        "name": "Estonia",
+        "code": "EEK",
+        "flag": "resources/country_flags/ee.png",
+        "wikipediaLink": "https://en.wikipedia.org/wiki/Estonia",
+        "regions": [
+          "Harjumaa", "Hiiumaa", "Ida-Virumaa", "Jarvamaa", "Jogevamaa", "Laane-Virumaa", "Laanemaa", "Parnumaa", "Polvamaa",
+          "Raplamaa", "Saaremaa", "Tartumaa", "Valgamaa", "Viljandimaa", "Vorumaa"
+        ]
+      },
+      {
+        "name": "Poland",
+        "code": "PLN",
+        "flag": "resources/country_flags/pl.png",
+        "wikipediaLink": "https://en.wikipedia.org/wiki/Poland",
+        "regions": [
+          "Dolnoslaskie", "Kujawsko-pomorskie", "Lodzkie", "Lubelskie", "Lubuskie", "Malopolskie", "Mazowieckie", "Opolskie",
+          "Podkarpackie", "Podlaskie", "Pomorskie", "Slaskie", "Swietokrzyskie", "Warminsko-mazurskie", "Wielkopolskie", "Zachodniopomorskie"
+        ]
+      },
+      {
+        "name": "Barbados",
+        "code": "BBD",
+        "flag": "resources/country_flags/bb.png",
+        "wikipediaLink": "https://en.wikipedia.org/wiki/Barbados",
+        "regions": [
+          "Christ Church", "Saint Andrew", "Saint George", "Saint James", "Saint John", "Saint Lucy", "Saint Michael", "Saint Peter",
+          "Saint Philip", "Saint Thomas"
+        ]
+      },
+      {
+        "name": "Armenia",
+        "code": "AMD",
+        "flag": "resources/country_flags/am.png",
+        "wikipediaLink": "https://en.wikipedia.org/wiki/Armenia",
+        "regions": [
+          "Aragacotn", "Ararat", "Armavir", "Erevan", "Gegark'unik'", "Kotayk'", "Lori", "Sirak", "Syunik'", "Tavus", "Vayoc Jor"
+        ]
+      },
+      {
+        "name": "Tunisia",
+        "code": "TND",
+        "flag": "resources/country_flags/tn.png",
+        "wikipediaLink": "https://en.wikipedia.org/wiki/Tunisia",
+        "regions": [
+          "Beja", "Ben Arous", "Bizerte", "Gabes", "Gafsa", "Jendouba", "Kairouan", "Kasserine", "Kebili", "L'Ariana", "La Manouba",
+          "Le Kef", "Mahdia", "Medenine", "Monastir", "Nabeul", "Sfax", "Sidi Bouzid", "Siliana", "Sousse", "Tataouine", "Tozeur", "Tunis", "Zaghouan"
+        ]
+      },
+      {
+        "name": "Equatorial Guinea",
+        "code": "XAF",
+        "flag": "resources/country_flags/gq.png",
+        "wikipediaLink": "https://en.wikipedia.org/wiki/Equatorial_Guinea",
+        "regions": [
+          "Bioko Norte", "Kie-Ntem", "Litoral", "Wele-Nzas"
+        ]
+      },
+      {
+        "name": "Côte d'Ivoire",
+        "code": "XOF",
+        "flag": "resources/country_flags/ci.png",
+        "wikipediaLink": "https://en.wikipedia.org/wiki/Ivory_Coast",
+        "regions": [
+          "Abidjan", "Bas-Sassandra", "Comoe", "Denguele", "Goh-Djiboua", "Lacs", "Lagunes", "Montagnes", "Sassandra-Marahoue", "Savanes", "Vallee du Bandama", "Woroba", "Yamoussoukro", "Zanzan"
+        ]
+      },
+      {
+        "name": "Nauru",
+        "code": "AUD",
+        "flag": "resources/country_flags/nr.png",
+        "wikipediaLink": "https://en.wikipedia.org/wiki/Nauru",
+        "regions": [
+          "Aiwo", "Anetan", "Yaren"
+        ]
+      }
+    ]
+  }
+  
